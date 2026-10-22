@@ -5,7 +5,7 @@
 Включает SQL-анализ, визуализацию в Python (Pandas, Matplotlib) и интерактивный дашборд в Power BI.
 
 Стек 
-SQL (SQLite) — агрегация, группировки, оконные функции, CTE, JOIN. 
+SQL (MySQL) — агрегация, группировки, оконные функции, CTE, JOIN. 
 Python (Pandas, Matplotlib) — визуализация, анализ. 
 Power BI — интерактивный дашборд.
 
